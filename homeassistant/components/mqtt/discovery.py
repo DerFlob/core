@@ -33,6 +33,7 @@ SUPPORTED_COMPONENTS = [
     "sensor",
     "switch",
     "vacuum",
+    "device_tracker",
 ]
 
 ALREADY_DISCOVERED = "mqtt_discovered_components"
